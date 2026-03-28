@@ -10,18 +10,17 @@ Hands-on curriculum for someone returning to cloud engineering: **real AWS proje
 4. **Same habits as production** — No secrets in git, least-privilege IAM, remote state for Terraform when you move past solo experiments, and CI that plans or builds before apply/push.
 5. **Cross-cutting skills** — The [agentic development crash course](agentic-development-crash-course.md) is the playbook for prompting, grounding, and risk — use it alongside every week.
 
+## Curriculum
+
+| Week | Link | Focus | Why this matters |
+|------|------|--------|------------------|
+| 1 | [week1.md](week1.md) | Scholar Path Web UI on AWS: Cursor and GitHub setup, AWS CLI, Docker, Kubernetes (e.g. EKS), load balancer, Route 53, Terraform; stretch: GitHub Actions, env config for the cluster. | Rebuilds muscle memory for the full path from code to a public URL on AWS, and pairs it with how you will actually work now: AI-assisted IaC that you still verify and own. |
+| 2 | *Coming soon* | — | — |
+| 3 | *Coming soon* | — | — |
+
+
 ## Reference
 
 | Document | Purpose |
 |----------|---------|
 | [Agentic development crash course](agentic-development-crash-course.md) | How to work with AI agents: scope, verification, security, and day-to-day habits. |
-
-## Curriculum
-
-| Week | Link | Focus |
-|------|------|--------|
-| 1 | [week1.md](week1.md) | Scholar Path Web UI on AWS: Cursor and GitHub setup, AWS CLI, Docker, Kubernetes (e.g. EKS), load balancer, Route 53, Terraform; stretch: GitHub Actions, env config for the cluster. |
-| 2 | *Coming soon* | — |
-| 3 | *Coming soon* | — |
-
-Additional weeks will be added here as markdown files at the repo root (e.g. `week2.md`, `week3.md`) following the same pattern.
