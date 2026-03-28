@@ -2,21 +2,17 @@
 
 This program is a hands-on journey that uses your Senior SRE experience to bridge the gap into the new world of AI-driven infrastructure. By building real AWS projects with the Cursor AI code editor, you will move from manually writing code to orchestrating AI agents that deliver complex cloud capabilities.
 
+## The Approach
 
-## 🚀 The Approach:
-
-* **Learn by Doing** — We do not spend weeks just reading or watching videos. Instead, we build real things immediately. Every week has a clear goal: a working app, a live network, or a real cloud cluster. You learn the theory only when you need it to finish the build. This turns "knowledge" into "experience."
-
-* **Learn AI by Using It** — You will learn AI by applying it to the SRE and Cloud work you already know. We start with simple AI tasks and slowly move to more complex ones. By doing this, you will not only learn how to do SRE work in a new way but also become natural at using AI terms, tools, and best practices.
+- **Learn by Doing** — We do not spend weeks just reading or watching videos. Instead, we build real things immediately. Every week has a clear goal: a working app, a live network, or a real cloud cluster. You learn the theory only when you need it to finish the build. This turns "knowledge" into "experience."
+- **Learn AI by Using It** — You will learn AI by applying it to the SRE and Cloud work you already know. We start with simple AI tasks and slowly move to more complex ones. By doing this, you will not only learn how to do SRE work in a new way but also become natural at using AI terms, tools, and best practices.
 
 ## Curriculum
 
 | Week | Link | Focus | Why this matters |
 |------|------|--------|------------------|
-| 1 | [week1.md](week1.md) | In Week 1, we focus on the "The AI Handshake"—learning how to effectively communicate with an AI agent to deliver infrastructure you already understand. | 
-**Refreshing What You Know** — You are getting back in touch with the tools and terms you already know (like AWS and Terraform). This builds a strong bridge between your past experience and your future goals.
-**Setting Up for Success** — You are preparing your computer and your workspace correctly. This makes sure you have everything you need to build much more complex and exciting things in the weeks ahead.
-* **Your First AI Win** — You have successfully used AI in a professional way. This is a huge milestone. It proves you can use these new tools to deliver high-quality work faster and better than before. |
+| 1 | [week1.md](week1.md) | In Week 1, we focus on "The AI Handshake"—learning how to effectively communicate with an AI agent to deliver infrastructure you already understand. | **Refreshing what you know** — Get back in touch with tools and terms you already know (AWS, Terraform) and bridge past experience to what comes next.<br><br>**Setting up for success** — Prepare your computer and workspace so you have what you need for more complex work in later weeks.<br><br>**Your first AI win** — Use AI in a professional way, with you still owning quality—proof you can deliver faster without giving up rigor. |
 | 2 | *Coming soon* | — | — |
 | 3 | *Coming soon* | — | — |
 
+**Preview in Cursor:** open this file and press **⌘⇧V** (Markdown: Open Preview), or **⌘K** then **V** for preview beside the editor.
