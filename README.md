@@ -1,12 +1,9 @@
 # Agentic Development — AWS cloud engineering refresh
 
-Hands-on curriculum for someone returning to cloud engineering: **real AWS projects** plus **agentic workflows** (Cursor and similar tools) for infrastructure and delivery.
+This program is a hands-on journey that uses your Senior SRE experience to bridge the gap into the new world of AI-driven infrastructure. By building real AWS projects with the Cursor AI code editor, you will move from manually writing code to orchestrating AI agents that deliver complex cloud capabilities.
 
-## Approach
 
-### 🚀 The Approach: How We Build
-
-This course is built on a "Think First, Code Second" method. We use AI to do the heavy lifting, but we use our experience as Senior Engineers to stay in control.
+## 🚀 The Approach:
 
 * **Learn by Doing** — We do not spend weeks just reading or watching videos. Instead, we build real things immediately. Every week has a clear goal: a working app, a live network, or a real cloud cluster. You learn the theory only when you need it to finish the build. This turns "knowledge" into "experience."
 
