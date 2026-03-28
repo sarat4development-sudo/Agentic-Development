@@ -13,8 +13,9 @@ This program is a hands-on journey that uses your Senior SRE experience to bridg
 
 | Week | Link | Focus | Why this matters |
 |------|------|--------|------------------|
-| 1 | [week1.md](week1.md) | In Week 1, we focus on the "The AI Handshake"—learning how to effectively communicate with an AI agent to deliver infrastructure you already understand. | You are getting back in touch with the tools and terms you already know (like AWS and Terraform). This builds a strong bridge between your past experience and your future goals.
-* **Setting Up for Success** — You are preparing your computer and your workspace correctly. This makes sure you have everything you need to build much more complex and exciting things in the weeks ahead.
+| 1 | [week1.md](week1.md) | In Week 1, we focus on the "The AI Handshake"—learning how to effectively communicate with an AI agent to deliver infrastructure you already understand. | 
+**Refreshing What You Know** — You are getting back in touch with the tools and terms you already know (like AWS and Terraform). This builds a strong bridge between your past experience and your future goals.
+**Setting Up for Success** — You are preparing your computer and your workspace correctly. This makes sure you have everything you need to build much more complex and exciting things in the weeks ahead.
 * **Your First AI Win** — You have successfully used AI in a professional way. This is a huge milestone. It proves you can use these new tools to deliver high-quality work faster and better than before. |
 | 2 | *Coming soon* | — | — |
 | 3 | *Coming soon* | — | — |
