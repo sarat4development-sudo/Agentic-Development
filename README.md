@@ -4,23 +4,21 @@ Hands-on curriculum for someone returning to cloud engineering: **real AWS proje
 
 ## Approach
 
-1. **Learn by shipping** — Each week centers on a concrete outcome (running app, real DNS, real cluster), not a long reading list. Theory shows up when it unblocks the build.
-2. **Agents draft; you decide** — Use Cursor (chat or agent mode) to generate Terraform, Docker, and pipeline YAML. Treat output as a proposal: read diffs, run `terraform plan`, and verify in the console or CLI before anything touches shared environments.
-3. **Tight scope per session** — One objective at a time (e.g. “VPC + EKS only”) keeps context small and reduces mistakes across long agent runs.
-4. **Same habits as production** — No secrets in git, least-privilege IAM, remote state for Terraform when you move past solo experiments, and CI that plans or builds before apply/push.
-5. **Cross-cutting skills** — The [agentic development crash course](agentic-development-crash-course.md) is the playbook for prompting, grounding, and risk — use it alongside every week.
+### 🚀 The Approach: How We Build
+
+This course is built on a "Think First, Code Second" method. We use AI to do the heavy lifting, but we use our experience as Senior Engineers to stay in control.
+
+* **Learn by Doing** — We do not spend weeks just reading or watching videos. Instead, we build real things immediately. Every week has a clear goal: a working app, a live network, or a real cloud cluster. You learn the theory only when you need it to finish the build. This turns "knowledge" into "experience."
+
+* **Learn AI by Using It** — You will learn AI by applying it to the SRE and Cloud work you already know. We start with simple AI tasks and slowly move to more complex ones. By doing this, you will not only learn how to do SRE work in a new way but also become natural at using AI terms, tools, and best practices.
 
 ## Curriculum
 
 | Week | Link | Focus | Why this matters |
 |------|------|--------|------------------|
-| 1 | [week1.md](week1.md) | Scholar Path Web UI on AWS: Cursor and GitHub setup, AWS CLI, Docker, Kubernetes (e.g. EKS), load balancer, Route 53, Terraform; stretch: GitHub Actions, env config for the cluster. | Rebuilds muscle memory for the full path from code to a public URL on AWS, and pairs it with how you will actually work now: AI-assisted IaC that you still verify and own. |
+| 1 | [week1.md](week1.md) | In Week 1, we focus on the "The AI Handshake"—learning how to effectively communicate with an AI agent to deliver infrastructure you already understand. | * **Refreshing What You Know** — You are getting back in touch with the tools and terms you already know (like AWS and Terraform). This builds a strong bridge between your past experience and your future goals.
+* **Setting Up for Success** — You are preparing your computer and your workspace correctly. This makes sure you have everything you need to build much more complex and exciting things in the weeks ahead.
+* **Your First AI Win** — You have successfully used AI in a professional way. This is a huge milestone. It proves you can use these new tools to deliver high-quality work faster and better than before. |
 | 2 | *Coming soon* | — | — |
 | 3 | *Coming soon* | — | — |
 
-
-## Reference
-
-| Document | Purpose |
-|----------|---------|
-| [Agentic development crash course](agentic-development-crash-course.md) | How to work with AI agents: scope, verification, security, and day-to-day habits. |
